@@ -203,3 +203,7 @@ h1 {
 header {
   z-index: 1;
 }
+
+.pink {
+  color: pink;
+}
